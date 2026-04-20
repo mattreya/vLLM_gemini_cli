@@ -2,12 +2,16 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/assets/logos/vllm-logo-text-dark.png">
-    <img alt="vLLM" src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/assets/logos/vllm-logo-text-light.png" width=55%>
+    <img alt="vLLM" src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/assets/logos/vllm-logo-text-light.png" width=40%>
   </picture>
+  <br>
+  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d47353047328294a33e5.svg" width="40" alt="Gemini">
+  <br>
+  <b>Refactored for Gemini CLI</b>
 </p>
 
 <h3 align="center">
-Easy, fast, and cheap LLM serving for everyone
+Easy, fast, and cheap LLM serving for everyone — now Gemini-native
 </h3>
 
 <p align="center">
