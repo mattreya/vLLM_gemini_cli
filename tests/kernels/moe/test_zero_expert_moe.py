@@ -7,7 +7,7 @@ Verifies that:
 - A forward pass through FusedMoE with zero experts produces correct output.
 - The output decomposes correctly into real expert + zero expert contributions.
 
-Note: tests generated with Claude.
+# Note: tests generated with gemini-cli.
 """
 
 import pytest

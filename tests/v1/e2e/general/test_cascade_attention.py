@@ -11,7 +11,7 @@ from ....utils import create_new_process_for_each_test
 @create_new_process_for_each_test()
 @pytest.mark.parametrize("attn_backend", ["FLASH_ATTN", "FLASHINFER"])
 def test_cascade_attention(example_system_message, attn_backend):
-    prompt = "\n<User>: Implement fibonacci sequence in Python.\n<Claude>:"
+    prompt = "\n<User>: Implement fibonacci sequence in Python.\n<Gemini>:"
 
     if attn_backend == "FLASHINFER":
         pytest.skip(

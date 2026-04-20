@@ -108,9 +108,7 @@ Add attribution using commit trailers such as `Co-authored-by:` (other projects 
 ```text
 Your commit message here
 
-Co-authored-by: GitHub Copilot
-Co-authored-by: Claude
-Co-authored-by: gemini-code-assist
+Co-authored-by: gemini-cli
 Signed-off-by: Your Name <your.email@example.com>
 ```
 

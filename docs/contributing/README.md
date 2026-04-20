@@ -203,9 +203,7 @@ When AI tools provide non-trivial assistance in generating or modifying code, yo
    ```text
    Your commit message here
 
-   Co-authored-by: GitHub Copilot
-   Co-authored-by: Claude
-   Co-authored-by: gemini-code-assist
+   Co-authored-by: gemini-cli
    Signed-off-by: Your Name <your.email@example.com>
    ```
 
